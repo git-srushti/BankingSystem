@@ -12,11 +12,11 @@
 <body>
     <section class="header">
         <nav>
-            <a href="home.php" class="logo"><img src="logo2.jpg"></a>
+            <a href="index.html" class="logo"><img src="logo2.jpg"></a>
             <div class="nav-links" id="navLinks">
                 <i class="fas fa-times-circle" onclick="hidemenu()"></i>
             <ul>
-            <li><a href="home.php">HOME</a></li>
+            <li><a href="index.html">HOME</a></li>
             <li><a href="customer.php">VIEW CUSTOMER</a></li>
             <li><a href="transact.php">TRANSACT</a></li>
             <li><a href="history.php">HISTORY</a></li>
